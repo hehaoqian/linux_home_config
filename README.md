@@ -26,6 +26,11 @@ git checkout -b master --track origin/master
 # Do this if the following path is not already in your PATH
 # Add to ~/.bashrc to make it permanent
 export PATH=~/.local/bin:$PATH
+
+hash -r   # To Update bash PATH cache
+
+tmux
+# Enter "C-g, I" to install tmux plugins
 ```
 
 ## Update this repo
