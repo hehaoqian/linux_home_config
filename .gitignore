@@ -7,9 +7,11 @@
 !/.vimrc
 /.vim/.netrwhist
 
-!/.tmux
-/.tmux/plugins
-!/.tmux/plugins/.gitkeep
+/.tmux
+!/.tmux/plugins
+/.tmux/plugins/*
+!/.tmux/plugins/tpm
+!/.tmux/plugins/tpm/*
 !/.tmux.conf
 
 !/.local
