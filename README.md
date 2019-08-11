@@ -30,7 +30,7 @@ export PATH=~/.local/bin:$PATH
 hash -r   # To Update bash PATH cache
 
 tmux
-# Enter "C-g, I" to install tmux plugins
+# Press "C-g, I" to install tmux plugins
 ```
 
 ## Update this repo
