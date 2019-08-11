@@ -1,0 +1,17 @@
+/*
+!/README.md
+!/.gitignore
+!/.gitattributes
+
+!/.vim
+!/.vimrc
+
+!/.tmux
+!/.tmux.conf
+
+!/.local
+/.local/*
+!/.local/bin
+/.local/bin/*
+!/.local/bin/tmux
+

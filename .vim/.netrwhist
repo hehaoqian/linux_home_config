@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/mnt/data-1/data/haoqian.he/hbdk_work1/scripts/devenv/hbdk'
+let g:netrw_dirhist_2='/etc/samba'
+let g:netrw_dirhist_3='/home/users/haoqian.he/.vim'
