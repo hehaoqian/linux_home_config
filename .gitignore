@@ -5,6 +5,7 @@
 
 !/.vim
 !/.vimrc
+/.vim/.netrwhist
 
 !/.tmux
 !/.tmux.conf
